@@ -10,6 +10,8 @@ import java.util.Scanner;
 
 public class Client {
 
+    // TODO: 16.01.2023  
+
     private Socket socket;
     private BufferedReader bufferedReader;
     private BufferedWriter bufferedWriter;
